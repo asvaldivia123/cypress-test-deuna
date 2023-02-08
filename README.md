@@ -19,3 +19,4 @@ $ npm run cypress:run
 ```
 $ npm run cypress:open
 ```
+Existe un video donde se muestra la ejecucion en /cypress/videos
